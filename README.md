@@ -1,4 +1,4 @@
-# anychar
+# onechar
 Quick programming language made in Python 3. Uses OneCompiler version of Python and Lua, so don't expect full accuracy. Heavily inspired by the esolang brainf**k.
 
 DO NOT MAKE IT POPULAR
